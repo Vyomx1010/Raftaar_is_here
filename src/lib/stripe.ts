@@ -1,0 +1,1 @@
+// Delete this file as we're removing Stripe completely
